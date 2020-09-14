@@ -1,6 +1,5 @@
 # 爬一下菜鸟教程
 from selenium import webdriver
-
 comments = []
 
 driver = webdriver.Firefox(executable_path='C:/Users/Administrator/Desktop/geckodriver.exe')  # 新版本需要下载 geckodriver

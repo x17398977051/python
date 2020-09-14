@@ -303,3 +303,100 @@ JavaScript warning: https://static.runoob.com/assets/jquery/2.0.3/jquery.min.js,
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1600095895195	geckodriver	INFO	Listening on 127.0.0.1:60457
+1600095898302	mozrunner::runner	INFO	Running command: "F:\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MACHEN~1\\AppData\\Local\\Temp\\rust_mozprofileatAJrn"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600095904881	Marionette	INFO	Listening on port 60466
+1600095904970	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 2556, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1600096188265	Marionette	INFO	Stopped listening on port 60466
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600096144010	Marionette	INFO	Listening on port 60794
+1600096144021	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 1468, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1600096189252	Marionette	INFO	Stopped listening on port 60794
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, meJavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600096191989	Marionette	INFO	Listening on port 60875
+1600096192434	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 10224, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1600096374535	Marionette	INFO	Stopped listening on port 60875
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ror: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600096373746	Marionette	INFO	Listening on port 61024
+1600096374009	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn-city.livere.com/js/comment.zero.zh-cn.dist.js?d=20200911, line 3: TypeError: e is undefined
+JavaScript error: chrome://marionette/content/proxy.js, line 222: TypeError: this.browser.driver.dialogObserver is null
+[Parent 9388, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1600096447971	Marionette	INFO	Stopped listening on port 61024
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+tte	INFO	Listening on port 61105
+1600096444755	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn-city.livere.com/js/comment.zero.zh-cn.dist.js?d=20200911, line 3: TypeError: e is undefined
+[Parent 9060, Gecko_IOThread] WARNING: file /builds/worker/c1600096514859	mozrunner::runner	INFO	Running command: "F:\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MACHEN~1\\AppData\\Local\\Temp\\rust_mozprofileAiX1vf"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600096518714	Marionette	INFO	Listening on port 61234
+1600096518729	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.runoob.com/assets/jquery/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 11648, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1600096697106	Marionette	INFO	Stopped listening on port 61234
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600096702685	geckodriver	INFO	Listening on 127.0.0.1:61433
+1600096705742	mozrunner::runner	INFO	Running command: "F:\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MACHEN~1\\AppData\\Local\\Temp\\rust_mozprofilewwAGQL"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600096708446	Marionette	INFO	Listening on port 61441
+1600096708495	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.runoob.com/assets/jquery/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 3000, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1600096758947	Marionette	INFO	Stopped listening on port 61441
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600096760626	geckodriver	INFO	Listening on 127.0.0.1:61529
+1600096763675	mozrunner::runner	INFO	Running command: "F:\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MACHEN~1\\AppData\\Local\\Temp\\rust_mozprofilel9ThwT"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600096766324	Marionette	INFO	Listening on port 61543
+1600096766431	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.runoob.com/assets/jquery/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 10076, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1600096986267	Marionette	INFO	Stopped listening on port 61543
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot seJavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600096988111	Marionette	INFO	Listening on port 61709
+1600096988182	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.runoob.com/assets/jquery/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1600097056389	Marionette	INFO	Stopped listening on port 61709
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"-foreground" "-no-remote" "-profile" "C:\\Users\\MACHEN~1\\AppData\\Local\\Temp\\rust_mozprofileYUpJWx"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600097060472	Marionette	INFO	Listening on port 61799
+1600097060587	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.runoob.com/assets/jquery/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
