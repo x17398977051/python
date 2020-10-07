@@ -1,0 +1,3 @@
+人生苦短,我用Python
+人生苦短,我用JavaScript
+人生苦短,我用Node.js
